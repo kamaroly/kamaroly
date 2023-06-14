@@ -8,6 +8,7 @@ I am a father, husband, and a tech lead with passion for developing, integrating
 - 💬 Ask me about Elixir, php, python, material, Javascript, tech team building and leadership.
 - 📫 How to reach me: 
   -  Twitter: [@kamaroly](https://twitter.com/kamaroly)
+  -  Medium: [lambert.kamaro](https://medium.com/@lambert.kamaro)
   -  Stackoverflow: [kamaro](https://stackoverflow.com/users/2858817/kamaro)
 - ⚡ Fun fact: I enjoy skipping the rope, and reading the bible
 
