@@ -5,7 +5,7 @@ I am a father, husband, and a tech lead with passion for developing, integrating
 - 🔭 I’m currently working at [Amitruck](https://www.amitruck.com/)
 - 🌱 I’m currently working on my thesis for my MBA in strategic management from the United State International University.
 - 👯 I’m looking to collaborate on Elixir, PHP, Python, angularjs, react and technical leadership.
-- 💬 Ask me about Elixir, php, python, material, Javascript, and tech team building and leadership.
+- 💬 Ask me about Elixir, php, python, material, Javascript, tech team building and leadership.
 - 📫 How to reach me: 
   -  Twitter: [@kamaroly](https://twitter.com/kamaroly)
   -  Stackoverflow: [kamaro](https://stackoverflow.com/users/2858817/kamaro)
