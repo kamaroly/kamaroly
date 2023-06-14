@@ -3,7 +3,7 @@
 I am a father, husband, and a tech lead with passion for developing, integrating, and operating world class software services in established and emergent markets.
 
 - 🔭 I’m currently working on Amitruck 2.0
-- 🌱 I’m currently learning Elixir
+- 🌱 I’m currently working on my thesis for my MBA in strategic management from the United State International University.
 - 👯 I’m looking to collaborate on Elixir, PHP, and Python project.
 - 💬 Ask me about Elixir, php, python, material, Javascript, and tech team building and leadership.
 - 📫 How to reach me: 
