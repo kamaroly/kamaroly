@@ -20,7 +20,8 @@ I am a father, husband, and a tech lead with passion for developing, integrating
 6. Engineering Lead
 7. Senior Software Engineer
 8. Senior Software Architect
-9. Support Engineer
+9. Software Engineer
+10. Support Engineer
 
 ### Industries Worked In:
 1. Logistics: 1 year(Current)
