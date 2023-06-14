@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-**Lambert KAMARO** is a father, husband, and a tech lead. 
-I am a tech lead with passion for developing, integrating, and operating world class software services in established and emergent markets.
+**Lambert KAMARO** is a father, husband, and a tech lead with passion for developing, integrating, and operating world class software services in established and emergent markets.
 
 Here's a little bit about myself:
 
