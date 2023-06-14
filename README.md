@@ -9,7 +9,7 @@ I am a father, husband, and a tech lead with passion for developing, integrating
 - 📫 How to reach me: 
   -  Twitter: [@kamaroly](https://twitter.com/kamaroly)
   -  Stackoverflow: [kamaro](https://stackoverflow.com/users/2858817/kamaro)
-- ⚡ Fun fact: I enjoy skipping the rope, and reading daily bible
+- ⚡ Fun fact: I enjoy skipping the rope, and reading the bible
 
 ### Positions Worked in
 1. Engineering Manager
