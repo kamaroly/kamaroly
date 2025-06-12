@@ -13,19 +13,23 @@ I am a father, husband, and a tech lead with passion for developing, integrating
 - ⚡ Fun fact: I enjoy skipping the rope, and reading the bible
 
 ### Positions Worked in
-1. Engineering Manager
-2. Solutions Architect
-3. Manager DWH & BIS
-4. Technical Program Manager
-5. Regional Engineering Manager
-6. Engineering Lead
-7. Senior Software Engineer
-8. Senior Software Architect
-9. Software Engineer
-10. Support Engineer
+1. Chief Operations Officer
+2. Head of IT
+3. Engineering Manager
+4. Solutions Architect
+5. Manager DWH & BIS
+6. Technical Program Manager
+7. Regional Engineering Manager
+8. Engineering Lead
+9. Senior Software Engineer
+10. Senior Software Architect
+11. Software Engineer
+12. Support Engineer
 
 ### Industries Worked In:
-1. Logistics: 1 year(Current)
+1. Healthcare: Current
+2. Logistics: 3 years
 3. e-commerce/ femtech: 5 years
 4. Fintech: 5 years
 5. Telecommunication: 8 years
+
